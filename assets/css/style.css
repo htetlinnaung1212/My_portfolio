@@ -539,10 +539,18 @@ main {
   border-radius: inherit;
   z-index: -1;
 }
+.service-icon-box {
+  flex-shrink: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 
-.service-icon-box { margin-bottom: 10px; }
-
-.service-icon-box img { margin: auto; }
+.service-icon-box ion-icon {
+  font-size: 42px;
+  color: var(--orange-yellow-crayola);
+  --ionicon-stroke-width: 35px;
+}
 
 .service-content-box { text-align: center; }
 
