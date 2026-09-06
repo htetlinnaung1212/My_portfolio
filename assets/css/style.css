@@ -1041,18 +1041,7 @@ main {
 /* MOBILE */
 
 @media (max-width: 600px) {
-    .project-list {
-    padding-inline: 10px;
-  }
-
-  .project-item {
-    width: 100%;
-  }
-.project-title,
-  .project-category {
-    margin-left: 6px;
-    margin-right: 6px;
-  }
+   
 
   .project-img {
     width: 100%;
@@ -1251,14 +1240,17 @@ textarea.form-input::-webkit-resizer { display: none; }
     padding: 15px;
   }
 
-  .project-list {
-    grid-template-columns: 1fr;
-    gap: 25px;
-    width: 100%;
+   .project-list {
+    padding-inline: 10px;
   }
 
-  .project-title {
-    font-size: 16px;
+  .project-item {
+    width: 100%;
+  }
+.project-title,
+  .project-category {
+    margin-left: 6px;
+    margin-right: 6px;
   }
 
   .project-category {
