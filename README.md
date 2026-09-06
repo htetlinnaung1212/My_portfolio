@@ -1,44 +1,87 @@
-# vCard - Personal portfolio
+# Htet Lin Aung — Personal Portfolio
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-[![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
+A responsive personal portfolio website showcasing my background, technical skills, experience, and projects in Computer Engineering, Artificial Intelligence, Machine Learning, Computer Vision, Data, and Web Development.
 
-vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
+## 🌐 Live Portfolio
 
-## Demo
+View the portfolio here:
 
-![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+**https://htetlinnaung1212.github.io/My_portfolio/**
 
-## Prerequisites
+## 👨‍💻 About Me
 
-Before you begin, ensure you have met the following requirements:
+I am a Computer Engineering student at Mae Fah Luang University with interests in Artificial Intelligence, Machine Learning, Computer Vision, Data, and Web Development.
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+This portfolio was created to present my academic background, technical skills, internship experience, and selected projects in one place.
 
-## Installing vCard
+## 🚀 Projects
 
-To install **vCard**, follow these steps:
+Some of the projects featured in this portfolio include:
 
-Linux and macOS:
+- **Cow Behavior Detection System** — Computer Vision & AI
+- **Food Image Detection System** — Computer Vision & Image Processing
+- **Student Performance Prediction** — Data & Machine Learning
+- **Live Data Prediction Using SVM** — AI & Machine Learning
+- **Book Borrowing System Application** — Application & UI/UX
+- **Book Borrowing System Website** — Web Development
+- **AI System Monitoring Dashboard** — Web Development & System Monitoring
+
+Each project includes additional information about its purpose, implementation, and technologies used.
+
+## 🛠️ Technologies
+
+The portfolio website is built using:
+
+- HTML5
+- CSS3
+- JavaScript
+- Ionicons
+- Formspree
+
+It includes responsive layouts, project filtering, interactive project detail modals, and a functional contact form.
+
+## 📱 Responsive Design
+
+The website is designed to work across different screen sizes, including:
+
+- Desktop
+- Tablet
+- Mobile
+
+## 📬 Contact
+
+You can contact me directly through the **Contact** section of the portfolio.
+
+The contact form is integrated with Formspree for message delivery.
+
+## 💻 Running Locally
+
+Clone the repository:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
+git clone https://github.com/htetlinnaung1212/My_portfolio.git
 ```
 
-Windows:
+Navigate to the project:
 
 ```bash
-git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
+cd My_portfolio
 ```
 
-## Contact
+Then open `index.html` in your browser or run the project using a local development server such as VS Code Live Server.
 
-If you want to contact me you can reach me at [Twitter](https://www.x.com/codewithsadee_).
+## 🙏 Credits
 
-## License
+This portfolio is customized from the open-source **vCard Personal Portfolio** template created by CodeWithSadee.
 
-MIT
+Original project:
+
+https://github.com/codewithsadee/vcard-personal-portfolio
+
+The original template has been modified and customized with my own content, projects, experience, styling adjustments, project detail functionality, and contact form integration.
+
+## 📄 License
+
+This project is based on the original vCard Personal Portfolio template, which is distributed under the MIT License.
+
+See the `LICENSE` file for more information.
