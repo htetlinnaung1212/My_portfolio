@@ -1041,6 +1041,23 @@ main {
 /* MOBILE */
 
 @media (max-width: 600px) {
+    .project-list {
+    padding-inline: 10px;
+  }
+
+  .project-item {
+    width: 100%;
+  }
+.project-title,
+  .project-category {
+    margin-left: 6px;
+    margin-right: 6px;
+  }
+
+  .project-img {
+    width: 100%;
+    max-width: 100%;
+  }
 
   .project-modal {
     padding: 12px;
